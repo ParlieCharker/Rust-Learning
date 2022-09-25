@@ -1,3 +1,5 @@
+    use std::io;
+
 fn main() {
     // arithmentic
 
@@ -21,3 +23,4 @@ fn main() {
 
 
 }
+
