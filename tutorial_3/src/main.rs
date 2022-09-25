@@ -8,7 +8,7 @@ fn main() {
 
     }
 
-    let x = x + 1;
+    let x = "Hello";
     println!("x is: {}", x); // test comment
 
 
