@@ -1,0 +1,2 @@
+[workspace]
+members = ["Rust_book/chapter_3/*"]
