@@ -6,6 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Rust_book/chapter_3/test123/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Rust_book/chapter_3/variables/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rust_book/chapter_3/loops/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rust_book/chapter_3/temp/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
