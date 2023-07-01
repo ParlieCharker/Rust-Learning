@@ -7,6 +7,18 @@ name = "loops"
 version = "0.1.0"
 
 [[package]]
+name = "ownership"
+version = "0.1.0"
+
+[[package]]
+name = "rectangles"
+version = "0.1.0"
+
+[[package]]
+name = "structs"
+version = "0.1.0"
+
+[[package]]
 name = "temp"
 version = "0.1.0"
 
