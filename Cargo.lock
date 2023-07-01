@@ -15,11 +15,19 @@ name = "loops"
 version = "0.1.0"
 
 [[package]]
+name = "my-project"
+version = "0.1.0"
+
+[[package]]
 name = "ownership"
 version = "0.1.0"
 
 [[package]]
 name = "rectangles"
+version = "0.1.0"
+
+[[package]]
+name = "restaurant"
 version = "0.1.0"
 
 [[package]]
