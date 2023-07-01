@@ -13,6 +13,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Rust_book/chapter_4/test152/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Rust_book/chapter_5/rectangles/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Rust_book/chapter_5/structs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rust_book/chapter_6/coins/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rust_book/chapter_6/enums/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
