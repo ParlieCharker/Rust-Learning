@@ -17,6 +17,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Rust_book/chapter_6/enums/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Rust_book/chapter_7/my-project/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Rust_book/chapter_7/restaurant/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rust_book/chapter_8/hashmap/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rust_book/chapter_8/strings/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rust_book/chapter_8/vecs/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />

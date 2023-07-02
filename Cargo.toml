@@ -1,2 +1,2 @@
 [workspace]
-members = ["Rust_book/chapter_3/*", "Rust_book/chapter_4/*", "Rust_book/chapter_5/*", "Rust_book/chapter_6/*", "Rust_book/chapter_7/*"]
+members = ["Rust_book/chapter_3/*", "Rust_book/chapter_4/*", "Rust_book/chapter_5/*", "Rust_book/chapter_6/*", "Rust_book/chapter_7/*", "Rust_book/chapter_8/*"]
